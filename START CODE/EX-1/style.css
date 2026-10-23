@@ -1,0 +1,34 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+    padding: 30px 100px;
+}
+
+div{
+    background:white;
+    padding: 20px;
+    margin: 30px;
+    border-radius: 10px;
+
+}
+ button {
+    padding: 10px;
+    background-color: teal;
+    border-radius: 30px;
+    border: none;
+    color:white;
+    cursor: pointer;
+ }
+
+ .teal button {
+    background: teal;
+ }
+
+ .orange button {
+    background: orange;
+ }
+
+ .purple button {
+    background: purple;
+ }
+

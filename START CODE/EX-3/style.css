@@ -1,0 +1,13 @@
+/* TODO */
+button {
+    background-color: blue;
+    border: 2px solid skyblue;
+    color: white;
+    padding: 12px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: green;
+    border-color: red;
+}
